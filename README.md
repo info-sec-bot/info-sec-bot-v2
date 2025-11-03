@@ -42,9 +42,9 @@
 
  - 🥀 Developer | Engineer | Security Researcher
  
- - <i>with Javascript, Typescript, React and 69 others.</i>
+ - <i>8+ years in Information Security and Linux Administration</i>
    
- - 🔭 SpaceX FanBoi, die for space😼
+ - 🔭 Linux FanBoi, live for open source😼
 
  - 🛸 Into High Energy Physics and Astrophysics, i love shooting stars too.
  
