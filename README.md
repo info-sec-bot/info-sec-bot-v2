@@ -46,7 +46,7 @@
    
  - 🔭 Experience with Cloud Engineering and Infrastructure as Code
 
- - 🛸 Into High Energy Physics and Astrophysics, i love shooting stars too.
+ - 🛸 Into Application Security, Quantum Computing, and Kernel Development.
  
  - I do fullstack and a bit of everything :heart:
  
