@@ -44,7 +44,7 @@
  
  - <i>8+ years in Information Security and Linux Administration</i>
    
- - 🔭 Experience with Cloud Engineering and declarative IAC development 🕴️
+ - 🔭 Experience with Cloud Engineering and IAC🕴️
 
  - 🛸 Into High Energy Physics and Astrophysics, i love shooting stars too.
  
