@@ -33,7 +33,7 @@
  
  
 <br />
-<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
+<img align="right" height="270px" width="450px" alt="GIF" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG1tZnlsM2RiYXJiaW9iOGliZzhneGZlcmVxMzZkazNrdGk1d25xbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9rg3jHM90Q1zIHo0dL/giphy.gif" />
 <p align="center">
   <h3> I'm a passionate DevSecOps Engineer.</h3>
 </p>
