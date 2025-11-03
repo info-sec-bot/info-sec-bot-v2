@@ -62,7 +62,7 @@
 
 <p align="center" >
 <a href="https://github.com/anuraghazra/github-readme-stats"> 
-    <img  src="Skills_Animation_Dark.gif/>
+    <img  src="./Skills_Animation_Dark.gif/>
   </a>
 
 </p>
