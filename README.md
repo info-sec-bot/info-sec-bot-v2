@@ -46,7 +46,7 @@
    
  - 🔭 Experience with Cloud Engineering and Infrastructure as Code
 
- - 🛸 Into AppSec, Quantum Computing, and Reverse Engineering.
+ - 🛸 Into Kubernetes, Application Security, and Reverse Engineering.
  
  - Currenty working on projects in Python and Terraform HCL 🧮
  
