@@ -39,7 +39,7 @@
   <h3> I'm a passionate DevSecOps Engineer.</h3>
 </p>
 
- - 🥀 Learning Swift & Objective_C
+ - 🥀 Developer | Engineer | Security Researcher
  
  - <i>with Javascript, Typescript, React and 69 others.</i>
    
