@@ -120,7 +120,7 @@
    </p>
 <br />
 <h2 align="center"> Key Projects</h2>
-- **w3bScrap3r**: A Python repository of programs designed to collect data from websites and REST API endpoints.
+<p align="center">w3bScrap3r: A Python repository of programs designed to collect data from websites and REST API endpoints.</p>
 - **pyfalconapi**: A Python-based tool suite for interacting with FalconPy, for real-time incident detection and automated response actions.
 - **terra-dojo**: A collection of terraform scripts for infrastructure automation.   
    
