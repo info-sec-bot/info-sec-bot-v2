@@ -48,7 +48,7 @@
 
  - 🛸 Into AppSec, Quantum Computing, and Reverse Engineering.
  
- - I do fullstack and a bit of everything :heart:
+ - Currenty working on projects in Python and Terraform HCL 🧮
  
  - All About living life at its best.
  
