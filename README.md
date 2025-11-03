@@ -50,7 +50,7 @@
  
  - Currenty working on projects in Python and Terraform HCL 🧮
  
- - All About living life at its best.
+ - Linux +, Security +, CCNA
  
  <!--- 💬 Connect? lets get social 👉🏼[<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" >](https://twitter.com/_hemant_joshi)
  -->
