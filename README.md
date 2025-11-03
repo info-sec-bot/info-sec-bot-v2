@@ -46,7 +46,7 @@
    
  - 🔭 Experience with Cloud Engineering and Infrastructure as Code
 
- - 🛸 Into Application Security, Quantum Computing, and Kernel Development.
+ - 🛸 Into AppSec, Quantum Computing, and Reverse Engineering.
  
  - I do fullstack and a bit of everything :heart:
  
