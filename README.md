@@ -44,7 +44,7 @@
  
  - <i>8+ years in Information Security and Linux Administration</i>
    
- - 🔭 Linux FanBoi, live for open source😼
+ - 🔭 Experience with Cloud Engineering and declarative IAC development 🕴️
 
  - 🛸 Into High Energy Physics and Astrophysics, i love shooting stars too.
  
