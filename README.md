@@ -30,7 +30,7 @@
  </p>
  -->
  <h5 align="center">
-   <i>⚡️I don’t trust people who still use Python 2⚡️</i>
+   <i>⚡️Remember, it's all just 0's and 1's⚡️</i>
   </h5>
  
  
